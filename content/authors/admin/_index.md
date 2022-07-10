@@ -27,7 +27,7 @@ education:
   courses:
     - course: MS Computational and Applied Mathematics
       institution: Colorado School of Mines
-      year: (Expected) 2023
+      year: \n(Expected) 2023
     - course: Certificate in Quantum Engineering
       institution: Colorado School of Mines
       year: (Expected) 2023
