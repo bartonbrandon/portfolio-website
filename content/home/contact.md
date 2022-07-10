@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: brandonbarton@mines.edu
+  phone: 720 837 3047
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 1500 Illinois St
+    city: Golden
+    region: CO
+    postcode: '80401'
     country: United States
     country_code: US
   coordinates:
