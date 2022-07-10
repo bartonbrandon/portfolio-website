@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://www.mines.edu/qef/trainees/
-    date_end: '2022-01-15'
-    date_start: '2022-12-15'
+    date_end: '2022-12-15'
+    date_start: '2022-01-15'
     description: ''
     organization: National Science Foundation (NSF)
     organization_url: https://www.mines.edu/qef/
