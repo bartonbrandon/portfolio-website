@@ -30,7 +30,7 @@ education:
       year: \n(Expected) 2023
     - course: Certificate in Quantum Engineering
       institution: Colorado School of Mines
-      year: (Expected) 2023
+      year: \n(Expected) 2023
     - course: BS in Computer Science
       institution: Colorado School of Mines
       year: 2022
